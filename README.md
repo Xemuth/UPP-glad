@@ -1,3 +1,5 @@
+Upp glad is a package of glad made for Ultimate++ framework.
+
 This glad package have been generated via :
 https://glad.dav1d.de
 with following options : 
