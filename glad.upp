@@ -1,0 +1,18 @@
+description "Glad is a openGL loader function. To see queries used to generate file in this package see the readme.md";
+
+include
+	./include,
+	./src;
+
+file
+	src\glad.c,
+	src\glad_wgl.c,
+	include\KHR\khrplatform.h,
+	include\glad\glad.h,
+	include\glad\glad_wgl.h,
+	Glad.h,
+	README.md;
+
+mainconfig
+	"" = "";
+
