@@ -1,8 +1,8 @@
-description "Glad is a openGL loader function. To see queries used to generate file in this package see the readme.md";
+description "Glad is a openGL loader function. To see queries used to generate file in this package see the readme.md\3770,128,128";
 
 include
-	./include,
-	./src;
+	./src,
+	./include;
 
 file
 	src\glad.c,
@@ -12,7 +12,4 @@ file
 	include\glad\glad_wgl.h,
 	Glad.h,
 	README.md;
-
-mainconfig
-	"" = "";
 
